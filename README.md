@@ -26,6 +26,6 @@ Build and run the app on an Android device or emulator.
 
 
 
-For any inquiries or feedback, please contact Your Anupama.
+For any inquiries or feedback, please contact me.
 
 anupamakjha@gmail.com
